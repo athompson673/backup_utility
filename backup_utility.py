@@ -519,7 +519,7 @@ def main():
     else:
         old_cwd = os.getcwd()
         try:
-            do_backup(args.Source, args.Destination)+
+            do_backup(args.Source, args.Destination)
         finally:
             os.chdir(old_cwd)
 
