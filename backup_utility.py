@@ -8,7 +8,7 @@ Created on Fri Mar 11 13:20:15 2022
 
 @author: Aaron Thompson
 @license: CC BY 4.0
-@license-url: https://creativecommons.org/licenses/by/3.0/
+@license-url: https://creativecommons.org/licenses/by/4.0/
 """
 
 # main imports
